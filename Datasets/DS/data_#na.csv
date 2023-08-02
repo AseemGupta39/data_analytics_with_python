@@ -1,8 +1,8 @@
-Name,Marks,Grades
-Priyang,98,NULL
-Aadhya,#NA,AB
-Krisha,99,AA
-Vedant,87,NA
-Parshv,90,AC
-Mittal,#NA,BA
-Archana,82,BB
+,Name,Marks,Grades
+0,Priyang,98.0,
+1,Aadhya,,AB
+2,Krisha,99.0,AA
+3,Vedant,87.0,
+4,Parshv,90.0,AC
+5,Mittal,,BA
+6,Archana,82.0,not available
