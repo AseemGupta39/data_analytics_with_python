@@ -10,3 +10,8 @@ Status: Completed
 Video Link: https://youtube.com/playlist?list=PL_1pt6K-CLoDNnE3LBVRUXMf1am0oZ3-G<br/>
 Status: Completed
 
+### Data Analytics 
+Video link: https://youtube.com/playlist?list=PL_1pt6K-CLoDMEbYy2PcZuITWEjqMfyoA<br/>
+Status: On Progress
+
+
