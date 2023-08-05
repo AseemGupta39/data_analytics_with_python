@@ -8,5 +8,5 @@ Status: Completed
 
 ### Pandas 
 Video Link: https://youtube.com/playlist?list=PL_1pt6K-CLoDNnE3LBVRUXMf1am0oZ3-G<br/>
-Status: On Progress
+Status: Completed
 
